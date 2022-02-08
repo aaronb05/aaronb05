@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron
-- 🌱 I’m currently learning Python & MAUI
+- 🌱 I’m currently working for a private university in North Carolina. At the moment I learning Python & .NET CORE
 - 📫 How to reach me aboyles05@gmail.com
 
 <!---
